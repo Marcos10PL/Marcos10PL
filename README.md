@@ -4,3 +4,5 @@
 -- I'm interested in web development :computer: <br>
 -- Now I'm learning TypeScript and React.js :blue_book: <br>
 
+I started my programming adventure at a technical school in 2020. Since then, I have been training my skills in various languages.
+
