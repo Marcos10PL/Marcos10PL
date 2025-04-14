@@ -7,12 +7,12 @@
 I started my programming adventure at a technical school in 2020. Since then, I have been training my skills in various languages.
 
 ### Skills:
--- HTML -- CSS -- SCSS 
--- Bootstrap -- Tailwind CSS 
--- JavaScript -- jQuery 
--- TypeScript -- React.js 
--- Node.js -- Express.js
--- Next.js -- PHP
--- Java -- C++ 
--- MySQL -- Oracle
+-- HTML -- CSS -- SCSS <br>
+-- Bootstrap -- Tailwind CSS <br>
+-- JavaScript -- jQuery <br>
+-- TypeScript -- React.js <br>
+-- Node.js -- Next.js<br>
+-- Wordpress -- PHP<br>
+-- Java -- C++ <br>
+-- MySQL -- Oracle<br>
 
