@@ -12,6 +12,7 @@ I started my programming adventure at a technical school in 2020. Since then, I 
 -- JavaScript -- jQuery <br>
 -- TypeScript -- React.js <br>
 -- Node.js -- Next.js<br>
+-- Redux -- MongoDB <br>
 -- Wordpress -- PHP<br>
 -- Java -- C++ <br>
 -- MySQL -- Oracle<br>
